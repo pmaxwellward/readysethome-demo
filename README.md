@@ -4,3 +4,5 @@ An HTML5 video app designed for the Amazon Fire TV platform. The original conten
 Built from this archived Amazon project: https://github.com/amzn/web-app-starter-kit-for-fire-tv 
 
 Client: The Children's Home & Lemieux Family Center / Anthem Video
+
+View project here: [Ready. Set. Home! - Demo](https://pmaxwellward.github.io/readysethome-demo/)
