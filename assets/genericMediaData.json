@@ -1,0 +1,797 @@
+{
+    "media": [
+        {
+            "id": "gtube-00",
+            "title": "G-Tube | Intro & Cleaning",
+            "pubDate": "Friday, 22 Jan 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/gtube_00.jpg",
+            "imgURL": "assets/thumbnails/gtube_00.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "G-Tube"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gtube-01",
+            "title": "G-Tube | Changing the Feeding and Farrell Bag",
+            "pubDate": "Friday, 22 Jan 2021 11:58:06 GMT",
+            "thumbURL": "assets/thumbnails/gtube_01.jpg",
+            "imgURL": "assets/thumbnails/gtube_01.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "G-Tube"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gtube-02",
+            "title": "G-Tube | Programming the Feeding Bag",
+            "pubDate": "Friday, 22 Jan 2021 11:59:06 GMT",
+            "thumbURL": "assets/thumbnails/gtube_02.jpg",
+            "imgURL": "assets/thumbnails/gtube_02.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "G-Tube"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gtube-03",
+            "title": "G-Tube | Giving Medication",
+            "pubDate": "Friday, 22 Jan 2021 12:00:00 GMT",
+            "thumbURL": "assets/thumbnails/gtube_03.jpg",
+            "imgURL": "assets/thumbnails/gtube_03.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "G-Tube"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gtube-04",
+            "title": "G-Tube | Cleaning the G-Tube Extension",
+            "pubDate": "Friday, 22 Jan 2021 12:01:06 GMT",
+            "thumbURL": "assets/thumbnails/gtube_04.jpg",
+            "imgURL": "assets/thumbnails/gtube_04.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "G-Tube"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gtube-05",
+            "title": "G-Tube | Troubleshooting",
+            "pubDate": "Friday, 22 Jan 2021 12:02:06 GMT",
+            "thumbURL": "assets/thumbnails/gtube_05.jpg",
+            "imgURL": "assets/thumbnails/gtube_05.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "G-Tube"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gobag-00",
+            "title": "Go Bag | Intro",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/gobag_00.jpg",
+            "imgURL": "assets/thumbnails/gobag_00.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Go Bag"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gobag-01",
+            "title": "Go Bag | Packing the Trach Bag",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/gobag_01.jpg",
+            "imgURL": "assets/thumbnails/gobag_01.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Go Bag"
+            ],
+            "description": ""
+        },        {
+            "id": "gobag-02",
+            "title": "Go Bag | Packing the Suctioning Unit",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/gobag_02.jpg",
+            "imgURL": "assets/thumbnails/gobag_02.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Go Bag"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gobag-03",
+            "title": "Go Bag | Trach Supplies Bag",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/gobag_03.jpg",
+            "imgURL": "assets/thumbnails/gobag_03.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Go Bag"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gobag-04",
+            "title": "Go Bag | Packing the Trach Ties",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/gobag_04.jpg",
+            "imgURL": "assets/thumbnails/gobag_04.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Go Bag"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gobag-05",
+            "title": "Go Bag | Packing the Suction Catheter",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/gobag_05.jpg",
+            "imgURL": "assets/thumbnails/gobag_05.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Go Bag"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gobag-06",
+            "title": "Go Bag | Breathing Treatment",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/gobag_06.jpg",
+            "imgURL": "assets/thumbnails/gobag_06.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Go Bag"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gobag-07",
+            "title": "Go Bag | G-Tube Bag",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/gobag_07.jpg",
+            "imgURL": "assets/thumbnails/gobag_07.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Go Bag"
+            ],
+            "description": ""
+        },
+        {
+            "id": "gobag-08",
+            "title": "Go Bag | Closing Up the G-Tube Bag",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/gobag_08.jpg",
+            "imgURL": "assets/thumbnails/gobag_08.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Go Bag"
+            ],
+            "description": ""
+        },
+        {
+            "id": "cl-00",
+            "title": "Central Line | Intro",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/cl_00.jpg",
+            "imgURL": "assets/thumbnails/cl_00.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Central Line Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "cl-01",
+            "title": "Central Line | Types and Parts of Central Lines",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/cl_01.jpg",
+            "imgURL": "assets/thumbnails/cl_01.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Central Line Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "cl-02",
+            "title": "Central Line | Preparing the area",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/cl_02.jpg",
+            "imgURL": "assets/thumbnails/cl_02.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Central Line Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "cl-03",
+            "title": "Central Line | Accessing and flushing",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/cl_03.jpg",
+            "imgURL": "assets/thumbnails/cl_03.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Central Line Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "cl-04",
+            "title": "Central Line | Giving Medication via Central Line",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/cl_04.jpg",
+            "imgURL": "assets/thumbnails/cl_04.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Central Line Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "cl-05",
+            "title": "Central Line | Giving Medication via Pump",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/cl_05.jpg",
+            "imgURL": "assets/thumbnails/cl_05.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Central Line Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "cl-06",
+            "title": "Central Line | Chaning the injection cap",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/cl_06.jpg",
+            "imgURL": "assets/thumbnails/cl_06.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Central Line Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "cl-07",
+            "title": "Central Line | Changing the dressing",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/cl_07.jpg",
+            "imgURL": "assets/thumbnails/cl_07.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Central Line Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "cl-08",
+            "title": "Central Line | Chaning dressing with a picc line",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/cl_08.jpg",
+            "imgURL": "assets/thumbnails/cl_08.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Central Line Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "cl-09",
+            "title": "Central Line | Broken or torn lines",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/cl_09.jpg",
+            "imgURL": "assets/thumbnails/cl_09.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Central Line Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "cl-10",
+            "title": "Central Line | Supplies for emergency go bag kit",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/cl_10.jpg",
+            "imgURL": "assets/thumbnails/cl_10.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Central Line Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "nesting_00",
+            "title": "Nesting | Intro",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/nesting_00.jpg",
+            "imgURL": "assets/thumbnails/nesting_00.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Nesting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "nesting_01",
+            "title": "Nesting | Goals and Benchmarks",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/nesting_01.jpg",
+            "imgURL": "assets/thumbnails/nesting_01.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Nesting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "nesting_02",
+            "title": "Nesting | Medical equipment in-services",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/nesting_02.jpg",
+            "imgURL": "assets/thumbnails/nesting_02.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Nesting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "nesting_03",
+            "title": "Nesting | Nesting procedures",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/nesting_03.jpg",
+            "imgURL": "assets/thumbnails/nesting_03.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Nesting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "nesting_04",
+            "title": "Nesting | Nesting Expectations",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/nesting_04.jpg",
+            "imgURL": "assets/thumbnails/nesting_04.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Nesting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "nesting_05",
+            "title": "Nesting | Necessary Emergency Medical Equipment",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/nesting_05.jpg",
+            "imgURL": "assets/thumbnails/nesting_05.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Nesting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "nesting_06",
+            "title": "Nesting | Nesting over 24 hours",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/nesting_06.jpg",
+            "imgURL": "assets/thumbnails/nesting_06.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Nesting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "nesting_07",
+            "title": "Nesting | Nesting completion",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/nesting_07.jpg",
+            "imgURL": "assets/thumbnails/nesting_07.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Nesting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "tc_00",
+            "title": "Trach Care | Intro",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tc_00.jpg",
+            "imgURL": "assets/thumbnails/tc_00.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",   
+            "subtitlesURL" : "",
+            "categories": [
+                "Trach Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "tc_01",
+            "title": "Trach Care | Clearing tube interior",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tc_01.jpg",
+            "imgURL": "assets/thumbnails/tc_01.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Trach Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "tc_02",
+            "title": "Trach Care | Tube maintenance",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tc_02.jpg",
+            "imgURL": "assets/thumbnails/tc_02.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Trach Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "tc_03",
+            "title": "Trach Care | Demonstration",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tc_03.jpg",
+            "imgURL": "assets/thumbnails/tc_03.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Trach Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "tc_04",
+            "title": "Trach Care | Changing the ventilator tubing",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tc_04.jpg",
+            "imgURL": "assets/thumbnails/tc_04.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Trach Care"
+            ],
+            "description": ""
+        },
+        {
+            "id": "travel_00",
+            "title": "Traveling | Intro",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/travel_00.jpg",
+            "imgURL": "assets/thumbnails/travel_00.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Traveling with Medical Equipment"
+            ],
+            "description": ""
+        },
+        {
+            "id": "travel_01",
+            "title": "Traveling | Organizing equipment in the car",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/travel_01.jpg",
+            "imgURL": "assets/thumbnails/travel_01.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Traveling with Medical Equipment"
+            ],
+            "description": ""
+        },
+        {
+            "id": "travel_02",
+            "title": "Traveling | Zippie Voyage disassembly",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/travel_02.jpg",
+            "imgURL": "assets/thumbnails/travel_02.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Traveling with Medical Equipment"
+            ],
+            "description": ""
+        },
+        {
+            "id": "travel_03",
+            "title": "Traveling | Zippie Voyage assembly",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/travel_03.jpg",
+            "imgURL": "assets/thumbnails/travel_03.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Traveling with Medical Equipment"
+            ],
+            "description": ""
+        },
+        {
+            "id": "travel_04",
+            "title": "Traveling | Kid cart storage",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/travel_04.jpg",
+            "imgURL": "assets/thumbnails/travel_04.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Traveling with Medical Equipment"
+            ],
+            "description": ""
+        },
+        {
+            "id": "travel_05",
+            "title": "Traveling | Kid cart assembly",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/travel_05.jpg",
+            "imgURL": "assets/thumbnails/travel_05.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Traveling with Medical Equipment"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_00",
+            "title": "Other Resources | Vaccines",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_00.jpg",
+            "imgURL": "assets/thumbnails/or_00.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_01",
+            "title": "Other Resources | Child Passenger Safety",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_01.jpg",
+            "imgURL": "assets/thumbnails/or_01.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_02",
+            "title": "Other Resources | Prevent Shaken Baby Syndrome (English Subs)",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_02.jpg",
+            "imgURL": "assets/thumbnails/or_02.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_03",
+            "title": "Other Resources | Prevent Shaken Baby Syndrome (English)",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_03.jpg",
+            "imgURL": "assets/thumbnails/or_03.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_04",
+            "title": "Other Resources | Prevent Shaken Baby Syndrome (Espa&ntilde;ol)",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_04.jpg",
+            "imgURL": "assets/thumbnails/or_04.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_05",
+            "title": "Other Resources | When Your Baby Cries",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_05.jpg",
+            "imgURL": "assets/thumbnails/or_05.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_06",
+            "title": "Other Resources | Safe Sleep For Your Baby",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_06.jpg",
+            "imgURL": "assets/thumbnails/or_06.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-change-00",
+            "title": "Tracheostomy Changing | Intro",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyChanging_00.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyChanging_00.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Changing"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-change-01",
+            "title": "Tracheostomy Changing | How To Change",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyChanging_01.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyChanging_01.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Changing"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-change-02",
+            "title": "Tracheostomy Changing | Demonstration",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyChanging_02.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyChanging_02.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Changing"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-change-03",
+            "title": "Tracheostomy Changing | Emergent Change",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyChanging_03.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyChanging_03.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Changing"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-ts-00",
+            "title": "Tracheostomy Troubleshooting | Intro",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyTroubleshooting_00.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyTroubleshooting_00.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Troubleshooting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-ts-01",
+            "title": "Tracheostomy Troubleshooting | Resuscitation Bag",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyTroubleshooting_01.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyTroubleshooting_01.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Troubleshooting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-ts-02",
+            "title": "Tracheostomy Troubleshooting | Resuscitation Bag Cont.",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyTroubleshooting_02.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyTroubleshooting_02.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Troubleshooting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-ts-03",
+            "title": "Tracheostomy Troubleshooting | Mask Placement",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyTroubleshooting_03.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyTroubleshooting_03.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Troubleshooting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-ts-04",
+            "title": "Tracheostomy Troubleshooting | Helpful Tips",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyTroubleshooting_04.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyTroubleshooting_04.jpg",
+            "videoURL": "https://www.dropbox.com/s/x8l17sm82g2nam6/Ready-Set-Home-trailer.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Troubleshooting"
+            ],
+            "description": ""
+        }
+        
+    ]
+}
