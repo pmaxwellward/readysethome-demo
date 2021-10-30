@@ -164,11 +164,13 @@ div {
     color: rgb(232,232,232,1.0);
     border-width: 1px 1px 1px 0px;
     background:#5179bb url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center;
- }
+    /*-webkit-filter: brightness(200%);
+    -moz-filter: brightness(200%);
+    filter: brightness(200%);*/ }
   
   .leftnav-list-item-container .leftnav-list-item-selected {
     color: rgb(232,232,232,1.0);
-    background: #2865c2 no-repeat right 40px center; }
+    background: #2865c2 /*url("assets/icon_leftnav_arrowDown.png")*/ no-repeat right 40px center; }
   
   .leftnav-list-item-chosen {
     border-color: #3f484f;
@@ -607,6 +609,7 @@ div {
   transition-timing-function: linear;
   cursor: pointer;}
 
+
 .forward-button, .rewind-button {
   position: absolute;
   top: 325px;
@@ -807,13 +810,31 @@ div {
 }
 
 @media only screen  
-  and (max-device-width: 850px)  {
+  and (max-device-width: 800px)  {
     .abs-container {
       width: 20%;
       top: 20%;
       left: 40%;
     }
+
+    #password-field { 
+      height: 30px;
+    }
 }
+
+@media only screen  
+  and (max-device-height: 540px)  {
+    .abs-container {
+      width: 20%;
+      top: 20%;
+      left: 40%;
+    }
+
+    #password-field { 
+      height: 30px;
+    }
+}
+
 
 #login-logo {
   display: block;

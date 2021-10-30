@@ -27,7 +27,7 @@
             this.trigger("hover", {type: e.type});
         }.bind(this);
         
-        // See if click target is in click event classlist and trigger click event if true
+
         this.handleOnClick = function (e) {
 
            var ele = e.target;
@@ -66,6 +66,12 @@
             mouseEle.addEventListener("mouseleave", this.handleOnHover, false);
         }
 
+        /*window.addEventListener("load", function () {
+            const shovels = document.getElementsByClassName("shoveler-full-img");
+            for (let i = 0; i < shovels.length; i++) {
+                shovels[i].style.cursor = "pointer";
+            }
+        }.bind(this));*/
     }
     
     exports.MouseEvents = MouseEvents;

@@ -60,7 +60,6 @@
         */
         this.touchStart = function(event) {
             event.preventDefault();
-
             // get the total number of fingers touching the screen
             this.fingers = event.touches.length;
 
@@ -120,11 +119,17 @@
         */
         this.handleTap = function(event) {
             var ele = event.target;
+            let inClassList = false;
             for(var c=0; c<ele.classList.length; c++) {
                 if(touchObj[ele.classList[c]]) {
                     touchObj[ele.classList[c]](event);
+                    inClassList = true;
                     break;
                 }
+            }
+
+            if(!inClassList) {
+                this.trigger('touch', {type: "touch", target: event.target});
             }
         };
 
@@ -177,9 +182,9 @@
             touchObj[touchEle] = touchHandler;
         };
 
-        window.addEventListener("touchstart", this.touchStart, false);
-        window.addEventListener("touchend", this.touchEnd, false);
-        window.addEventListener("touchmove", this.touchMove, false);
+        window.addEventListener("touchstart", this.touchStart, { passive: false });
+        window.addEventListener("touchend", this.touchEnd,{ passive: false });
+        window.addEventListener("touchmove", this.touchMove, { passive: false });
 
     }
 

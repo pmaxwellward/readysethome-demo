@@ -39,14 +39,15 @@
         this.indicatorTimeout = null;
         this.previousTime = null;
         this.continuousSeek = false;
+        this.buttons = new Buttons();
 
         this.MAX_SKIP_TIME = 30;
         this.SKIP_INDICATOR_OFFSET = 5;
         this.PAUSE_REMOVAL_TIME = 1500;
         this.CONTROLS_HIDE_TIME = 3000;
         
-        //Play/pause keycode
-        this.PLAY_PAUSE = 179;
+        // //Play/pause keycode
+        // this.PLAY_PAUSE = 179;
 
         this.controlsHideTime = app.settingsParams.controlsHideTime || this.CONTROLS_HIDE_TIME;
 
@@ -122,9 +123,9 @@
             this.$containerControls.find(".player-controls-content-subtitle").text(this.truncateSubtitle(description));
         }.bind(this);
 
-        this.handlePauseClick = function (e) {
-            this.trigger('buttonpress', {type: 'buttonpress', keyCode: this.PLAY_PAUSE, target: e.target});
-        }.bind(this);
+        // this.handlePauseClick = function (e) {
+        //     this.trigger('buttonpress', {type: 'buttonpress', keyCode: this.buttons.PLAY_PAUSE, target: e.target});
+        // }.bind(this);
 
         /**
          * @function render
@@ -161,8 +162,30 @@
             mouseevents.registerHoverHandler(this.playIcon);
             mouseevents.registerHoverHandler(this.rewindIcon);
             mouseevents.registerHoverHandler(this.forwardIcon);
-            //mouseevents.registerClickHandler("player-pause-indicator", this.handlePauseClick);
+
+            touches.registerTouchHandler("player-pause-indicator", this.handleTouchControl);
+            touches.registerTouchHandler("rw", this.handleTouchControl);
+            touches.registerTouchHandler("ff", this.handleTouchControl);
+            touches.registerTouchHandler("player-back-button", this.handleTouchControl);
         };
+
+        this.handleTouchControl = function (e) {
+            switch(e.target.className) {
+                case "player-pause-indicator":
+                    this.buttons.trigger('buttonpress', {type: 'buttonpress', keyCode: this.buttons.PLAY_PAUSE, target: e.target});
+                    break;
+                case "rw":
+                    this.buttons.trigger('buttonpress', {type: 'buttonpress', keyCode: this.buttons.REWIND, target: e.target});
+                    break;
+                case "ff": 
+                this.buttons.trigger('buttonpress', {type: 'buttonpress', keyCode: this.buttons.FAST_FORWARD, target: e.target});
+                    break;
+                case "player-back-button":
+                    this.buttons.trigger('buttonpress', {type: 'buttonpress', keyCode: this.buttons.BACK, target: e.target});
+                    break;
+            }
+        }.bind(this);
+
 
         /**
          * @function convertSecondsToHHMMSS
@@ -334,9 +357,13 @@
             this.containerControls.style.opacity = "0.99";
             // show pause icon
             this.playIcon.style.opacity = "0.99";
+            this.rewindIcon.style.opacity = "0.99";
+            this.forwardIcon.style.opacity = "0.99";
             // hide the pause icon after designated time by ux
             this.pauseTimeout = setTimeout(function() {
                 this.playIcon.style.opacity = "0";
+                this.rewindIcon.style.opacity = "0";
+                this.forwardIcon.style.opacity = "0";
             }.bind(this), this.PAUSE_REMOVAL_TIME);
             // cancel any pending timeouts
             clearTimeout(this.removalTimeout);
@@ -359,9 +386,15 @@
          */
         this.showAndHideControls = function() {
             this.containerControls.style.opacity = "0.99";
+            this.playIcon.style.opacity = "0.99";
+            this.rewindIcon.style.opacity = "0.99";
+            this.forwardIcon.style.opacity = "0.99";
             clearTimeout(this.removalTimeout);
             this.removalTimeout = setTimeout(function() {
                  this.containerControls.style.opacity = "0";
+                 this.playIcon.style.opacity = "0";
+                 this.rewindIcon.style.opacity = "0";
+                 this.forwardIcon.style.opacity = "0";
                  this.$rewindIndicator.hide();
                  this.$forwardIndicator.hide();
             }.bind(this), this.controlsHideTime);

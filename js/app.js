@@ -116,6 +116,11 @@
 
         }.bind(this);
 
+        //this.logoClick = function (e) {
+        //    console.log(e);
+        //    //window.open("https://www.childrenshomepgh.org/");
+        //}
+
        /** 
         * Set the application's current view
         * @param {Object} view the current view

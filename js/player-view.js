@@ -266,6 +266,7 @@
 
             this.videoElement.addEventListener('durationchange', this.durationChangeHandler);
             this.knownPlayerErrorTriggered = false;
+
         };
 
         /**
@@ -429,14 +430,24 @@
                     } else {
                         this.pauseVideo();
                     }  
-                } else if (e.target.className == "rw") {
+                } 
+                
+                if (e.target.className == "rw") {
                     this.seekVideo(this.videoElement.currentTime - this.skipLength);
-                } else if (e.target.className == "ff") {
+                } 
+                
+                if (e.target.className == "ff") {
                     this.seekVideo(this.videoElement.currentTime + this.skipLength);
                 }
-            }
+            }  else if (e.type == "touch") {
+                if (this.controlsCurrentlyShowing() === false) {
+                    this.controlsView.showAndHideControls();
+                }
+              }
 
         }.bind(this);
+
+
 
         /**
          * If closed caption tracks are available, display options to enable and select them
