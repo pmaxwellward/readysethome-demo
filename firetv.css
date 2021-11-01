@@ -275,7 +275,8 @@ div {
     /* OLD - Firefox 19- (buggy but mostly works) */
     display: -ms-flexbox;
     /* TWEENER - IE 10 */
-    display: box;
+    display: flex;
+    align-items: center;
     /* NEW, Spec - Opera 12.1, Firefox 20+ */
     -webkit-box-orient: vertical;
     -moz-box-orient: vertical;
@@ -594,7 +595,7 @@ div {
 .player-pause-button {
   position: absolute;
   top: 250px;
-  left: 870px;
+  left: calc(50% - 100px);
   height: 200px;
   width: 200px;
   opacity: 0; 
@@ -608,7 +609,6 @@ div {
   -moz-transition-timing-function: linear;
   transition-timing-function: linear;
   cursor: pointer;}
-
 
 .forward-button, .rewind-button {
   position: absolute;
@@ -629,12 +629,12 @@ div {
 }
 
 .forward-button {
-  left: 1065px;
+  left: calc(50% + 100px);
   transform: scale(-1);
 }
 
 .rewind-button {
-  left: 770px
+  left: calc(50% - 200px);
 }
 
 .next-video-main-container {
@@ -857,6 +857,7 @@ div {
 }
 
 #submit-button {
+  -webkit-appearance: unset;
   font-family: inherit;
   text-transform: inherit;
   color: #fefefe;

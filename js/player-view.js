@@ -242,8 +242,9 @@
 
             this.videoElement.focus();
 
-            //add event listeners
-            this.videoElement.addEventListener("canplay", this.canPlayHandler);
+            // add event listeners, using loadedmetadata instead of canplay 
+            // this.videoElement.addEventListener("canplay", this.canPlayHandler);
+            this.videoElement.addEventListener("loadedmetadata", this.canPlayHandler);
             this.videoElement.addEventListener("ended", this.videoEndedHandler);
             this.videoElement.addEventListener("timeupdate", this.timeUpdateHandler);
             this.videoElement.addEventListener("pause", this.pauseEventHandler);
